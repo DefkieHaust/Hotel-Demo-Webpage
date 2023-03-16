@@ -1,11 +1,0 @@
---2023-03-15 22:37:46--  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpxOEn5rNnjTlb6RDnDbmnMwtaQcCt8aLK0g
-Resolving encrypted-tbn0.gstatic.com... 142.250.185.46, 2a00:1450:4018:809::200e
-Connecting to encrypted-tbn0.gstatic.com|142.250.185.46|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 32842 (32K) [image/jpeg]
-Saving to: ‘back-bg.jpg’
-
-back-bg.jpg      0%       0  --.-KB/s                     back-bg.jpg    100%  32.07K  --.-KB/s    in 0.08s         
-
-2023-03-15 22:37:47 (427 KB/s) - ‘back-bg.jpg’ saved [32842/32842]
-
